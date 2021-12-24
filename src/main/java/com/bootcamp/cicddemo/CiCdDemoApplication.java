@@ -15,7 +15,7 @@ public class CiCdDemoApplication {
 
 	@GetMapping("/")
 	public String homepage() {
-		return "<h1>My fancy homepage gwfdhgf!</h1>";
+		return "<h1>My First CI CD project!</h1>";
 	}
 
 }
